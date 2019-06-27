@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="138.29805"
-     inkscape:cy="465.80449"
+     inkscape:cx="151.86948"
+     inkscape:cy="430.80449"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -144,14 +144,6 @@
        style="fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
     <rect
        style="fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="rect111"
-       width="12.311225"
-       height="12.311225"
-       x="60.228188"
-       y="231.77206"
-       ry="1.6799798" />
-    <rect
-       style="fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect826"
        width="12.311225"
        height="12.311225"
@@ -159,20 +151,36 @@
        y="182.52719"
        ry="1.6799798" />
     <rect
-       ry="1.6799798"
-       y="157.90472"
-       x="60.228191"
+       ry="6.1556125"
+       y="174.72467"
+       x="-27.2026"
        height="12.311225"
        width="12.311225"
-       id="rect828"
+       id="rect841-3"
        style="fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
     <rect
        style="fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       id="rect834"
+       id="rect6673"
        width="12.311225"
        height="12.311225"
-       x="60.228191"
+       x="60.228188"
+       y="157.90475"
+       ry="6.1556125" />
+    <rect
+       ry="6.1556125"
        y="120.97107"
-       ry="1.6799798" />
+       x="60.228188"
+       height="12.311225"
+       width="12.311225"
+       id="rect6675"
+       style="fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       ry="6.1556125"
+       y="231.77206"
+       x="60.228188"
+       height="12.311225"
+       width="12.311225"
+       id="rect6677"
+       style="fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
   </g>
 </svg>
