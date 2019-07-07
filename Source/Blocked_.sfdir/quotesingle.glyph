@@ -2,7 +2,9 @@ StartChar: quotesingle
 Encoding: 39 39 58
 Width: 151
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 407.143 162.857<38.9001 110.53>
+VStem: 34.0234 81.3828<412.043 565.1>
 LayerCount: 2
 Fore
 SplineSet
@@ -18,4 +20,5 @@ SplineSet
  34.0166015625 528.6484375 34 528.96484375 34 529.28515625 c 0
  34 551.840820312 52.1591796875 570 74.71484375 570 c 0
 EndSplineSet
+Validated: 524289
 EndChar

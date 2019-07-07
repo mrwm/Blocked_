@@ -2,7 +2,9 @@ StartChar: hyphen
 Encoding: 45 45 64
 Width: 311
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 244.285 81.4297<37.8996 272.385>
+VStem: 33 244.285<249.185 320.815>
 LayerCount: 2
 Fore
 SplineSet
@@ -22,4 +24,5 @@ SplineSet
  51.1572265625 244.28515625 33 262.444335938 33 285 c 0
  33 307.555664062 51.1572265625 325.71484375 73.712890625 325.71484375 c 0
 EndSplineSet
+Validated: 524289
 EndChar

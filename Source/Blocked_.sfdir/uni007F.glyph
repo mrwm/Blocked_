@@ -2,6 +2,8 @@ StartChar: uni007F
 Encoding: 127 127 94
 Width: 86
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
+Fore
+Validated: 1
 EndChar

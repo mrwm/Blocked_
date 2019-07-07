@@ -2,7 +2,7 @@ StartChar: c
 Encoding: 99 99 49
 Width: 300
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 46.5312<80.5312 266.587> 279.184 46.5312<80.5954 266.587>
 VStem: 34 46.5312<46.5312 279.116>
 LayerCount: 2
@@ -36,4 +36,5 @@ SplineSet
  242.24609375 0.01171875 242.090820312 0 241.931640625 0 c 2
  53.041015625 0 l 2
 EndSplineSet
+Validated: 524289
 EndChar
