@@ -1,18 +1,16 @@
 StartChar: period
 Encoding: 46 46 65
-Width: 153
+Width: 152
 VWidth: 0
-Flags: W
-HStem: 0 81.4287<35 116.429>
-VStem: 35 81.4287<0 81.4287>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
 35 0 m 1
- 35 81.4287109375 l 1
- 116.428710938 81.4287109375 l 1
- 116.428710938 0 l 1
+ 35 81 l 1
+ 116 81 l 1
+ 116 0 l 1
  35 0 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
