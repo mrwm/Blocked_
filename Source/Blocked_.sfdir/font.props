@@ -5,13 +5,13 @@ FamilyName: Blocked_
 Weight: Regular
 Copyright: Copyright (c) 2019, william,,,
 UComments: "2019-6-18: Created with FontForge (http://fontforge.org)"
-FontLog: "This font was created for the final submission for the typography class over at Foothill College. Inspired by the font +ACIA-Undefined Medium+ACIA and +ACIA-Cute Font+ACIA, Blocked_ takes a look with parts of the glyph missing (in a corner or somewhere else); hence the unfinished name of Blocked_<font>."
-Version: 001.000
+FontLog: "This font was created for the final submission for the typography class over at Foothill College. Inspired by the font +ACIA-Undefined Medium+ACIA and +ACIA-Cute Font+ACIA, Blocked_ takes a look with parts of the glyph missing (in a corner or somewhere else); hence the unfinished name of Blocked_<font>.+AAoACgAA-Shrank font weight of uppercase letters"
+Version: 001.001
 ItalicAngle: 0
-UnderlinePosition: -99.6094
-UnderlineWidth: 49.8047
-Ascent: 800
-Descent: 200
+UnderlinePosition: -101.376
+UnderlineWidth: 50.176
+Ascent: 819
+Descent: 205
 InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
@@ -22,17 +22,17 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1560886726
-ModificationTime: 1564595400
+ModificationTime: 1564596503
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 90
+LineGap: 92
 VLineGap: 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 90
+OS2TypoLinegap: 92
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
