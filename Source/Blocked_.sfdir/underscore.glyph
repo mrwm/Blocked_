@@ -1,22 +1,17 @@
 StartChar: underscore
 Encoding: 95 95 90
-Width: 476
+Width: 477
 VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-75 81 m 0
- 183 81 290 81 398 81 c 2
- 399 81 l 2
- 400 81 399 81 400 81 c 0
+75 81 m 2
+ 400 81 l 2
  423 81 441 64 441 41 c 0
- 441 18 423 0 400 0 c 0
- 399 0 400 0 399 0 c 2
- 398 0 l 2
- 290 0 183 0 75 0 c 0
+ 441 18 423 0 400 0 c 2
+ 75 0 l 2
  52 0 34 18 34 41 c 0
- 34 64 52 81 75 81 c 0
+ 34 64 52 81 75 81 c 2
 EndSplineSet
-Validated: 1
 EndChar

@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="251.57802"
-     inkscape:cy="410.37947"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="272.09518"
+     inkscape:cy="733.92271"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -75,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -84,6 +84,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-32.41665)">
+    <rect
+       transform="rotate(-90)"
+       ry="6.1558414"
+       y="112.55135"
+       x="-222.53864"
+       height="12.311683"
+       width="21.544638"
+       id="rect14685"
+       style="fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
     <rect
        style="fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect840"
@@ -181,14 +190,6 @@
        y="162.52121"
        ry="1.6800429" />
     <rect
-       ry="1.6800429"
-       y="205.6105"
-       x="104.85615"
-       height="12.311687"
-       width="12.311687"
-       id="rect885"
-       style="fill:#010101;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
-    <rect
        ry="10.772319"
        y="124.46863"
        x="-28.271679"
@@ -254,8 +255,30 @@
        width="21.544638"
        height="12.311683"
        x="-200.994"
-       y="83.311508"
+       y="100.23967"
        ry="6.1558414"
        transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.12031174px;line-height:1.25;font-family:undefined;-inkscape-font-specification:undefined;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31625974"
+       x="-93.430984"
+       y="207.04164"
+       id="text14675"><tspan
+         sodipodi:role="line"
+         id="tspan14673"
+         x="-93.430984"
+         y="207.04164"
+         style="stroke-width:0.31625974">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.5412159px;line-height:1.25;font-family:'Cute Font';-inkscape-font-specification:'Cute Font';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.516913"
+       x="-88.391106"
+       y="207.00934"
+       id="text14679"><tspan
+         sodipodi:role="line"
+         id="tspan14677"
+         x="-88.391106"
+         y="207.00934"
+         style="stroke-width:0.516913">R</tspan></text>
   </g>
 </svg>
